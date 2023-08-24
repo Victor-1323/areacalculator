@@ -4,7 +4,7 @@
         <title> areacalculator</title>
     </head>
     <body>
-<h1>Area of a circle</h1>
+<h1>Area of a Circle</h1>
 <form method="post" action="calculator.php"> 
     <input name= "radius" type="number" placeholder="enter the radius">
     <input type="submit" name="calculate_radius" value="calculate">
